@@ -26,7 +26,7 @@ body {
     width: 100%;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    color: #9B9B9B;
+    color: #7283AD;
 }
 .clearfix::after {
     content: " ";
@@ -200,7 +200,7 @@ textarea {
 /* 6. Page Styles
 ======================================== */
 .photo-hero {
-    background-color: #888888;
+    background-color: #515D7A;
     min-height: 700px;
 }
 .photo-hero-text {
@@ -211,7 +211,7 @@ textarea {
     margin: 1em 0 40px;;
 }
 .photo-hero h1 span {
-    color: #333333;
+    color: #233461;
 }
 .photo-hero p {
     color: #FFFFFF;
