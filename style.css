@@ -140,7 +140,7 @@ img {
 
 /* Site Footer */
 .footer {
-    background-color: #333333;
+    background-color: #515D7A;
     color: #FFFFFF;
     padding: 30px;
     text-align: center;
@@ -275,12 +275,12 @@ blockquote footer {
     margin-bottom: 30px;
 }
 .photo-about p {
-    color: #888888;
+    color: #3E5EAD;
     padding: 0 10%;
     text-align: left;
 }
 .photo-contact {
-    background-color: #555555;
+    background-color: #233461;
 }
 .photo-contact h2 {
     color: #FFFFFF;
